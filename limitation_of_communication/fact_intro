@@ -1,0 +1,33 @@
+A ted have argued that ehuman is different from the ape, since that one individuail human is less powerful than an ape, 
+but after some corporation, human will be much more poweful than ape. 
+but there isn't a measre of how ape and human communication
+This part of this research will try to give an measure between human and ape.
+
+#After a certain level of complexity
+I want to measure things in a binary tree, so that this will explain things more easily.
+
+Let us assume that human can deliever one binary tree of 5 level and with 2^5-1=31 notes to another human in 5 minutes
+but the ape can only deliever one binary tree of 3 level with 2^3 -1 = 7 notes to another human in 15 minutes
+
+we assume that each choice in a binary tree will make 1 bit information. that means that the edge number of tree decide the 
+information value of the tree. 
+
+we can estimate that with n notes, there will be n+1 edges, so will have (n+1) bit of information. 
+
+but here we have one important things. 
+
+We human ourself have the limitaion of communication. 
+
+Assume that we have a binary tree of information with (n+1) bit, I passwed the tree to you, so that you can make (n+1) 
+right decision, when facing the tree problem. but with the number of nodes increase, it will just be impossible for me to 
+transper the tree to you, cause that the transper cost is too much.
+
+Here is the difference between human and digital intelligence. 
+One computer can pass any level of knowledge to another with any pysical limitation. like one computer can pass 1TB data to
+anther computer by torrent way. but human can't, the maximum knowledge one human can pass to another is 8bit, any knoledge above
+this level can be passed form one person to anotehr. 
+
+what's this finally going to make? 
+Are there someday, computer will super human in intelligence, this is certainly will make, with more's law, the intelligence 
+increase of compute is so much faster than human, and they can communication any level of complexity of knowledge, unlike human
+we can only parallized a certian level of konwledge
